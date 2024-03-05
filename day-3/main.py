@@ -124,4 +124,5 @@ start = input("Where would you like to start, the bedroom or the living room? ")
 
 # if "living" in start:
 #     print("game over")
+
 # elif: 
